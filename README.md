@@ -1,7 +1,5 @@
 ### Hi Karan this side 👋 <div  align="right" >    
  
-<center><img align="right" alt="GIF" width="420" height="360" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdepositphotos.com%2Fvector-images%2Fprogrammer.html&psig=AOvVaw244Q6IUf0dCCJH5a3kZdXZ&ust=1613367182158000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPix2qDT6O4CFQAAAAAdAAAAABAD" /></center>
-</div>
 - 🔭 I’m currently focusing on building skills 👨⌛️
 - 🌱 I’m currently learning different technologies 👨🏻‍💻
 - 👯 I’m open to collaborate on open-source Projects in <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ML/DL,Data Anlayts,ComputerVision, flask🤗🥰
