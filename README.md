@@ -6,7 +6,7 @@
 - 🤔 I’m looking for Freelancing Projects 💸💰
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/karan-choudhary-9102b81a0/">LinkedIn</a> 😍
 - 😍 Reach me through <a href="Choudharykaran469@gmail.com">📩</a>
-- 🤩 Always ready to Participate in Hackathons 🎒
+- 🤩 Always ready to Participate in Hackathons and Challenges 🎒
 - 🤗 Love to make new connections 👫🐥
 ### ✨ Social Media Profiles 
 [![Linkedin Badge](https://img.shields.io/badge/-karanChoudhary-black?style=social&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/karan-choudhary-9102b81a0/)](https://www.linkedin.com/in/karan-choudhary-9102b81a0/)&nbsp;&nbsp;&nbsp;
