@@ -1,6 +1,6 @@
-### Hi Karan this side 👋 <div  align="right">    <img src="https://raw.githubusercontent.com/kumar-sanjeet1/assets/master/images/icons/linkedin.svg"  height="25px">
+### Hi Karan this side 👋 <div  align="right">    
  </div>
-<center><img align="right" alt="GIF" width="420" height="360" src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif" /></center>
+<center><img align="right" alt="GIF" width="420" height="360" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FavidLearnerInProgress%2FpyCAIR&psig=AOvVaw2XWchhbd8gPzkFLJ8tT6Qt&ust=1613366794284000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPC_punR6O4CFQAAAAAdAAAAABAD" /></center>
 
 - 🔭 I’m currently focusing on building skills 👨⌛️
 - 🌱 I’m currently learning different technologies 👨🏻‍💻
