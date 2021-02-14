@@ -15,18 +15,8 @@
 <code><img height="25" src="https://img.icons8.com/color/48/000000/python.png"/></code>&nbsp;&nbsp;
 <code><img height="25" src="https://www.brandeps.com/logo-download/O/OpenCV-logo-vector-01.svg"></code>&nbsp;&nbsp;
 
-<a href="https://github.com/iampawan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampawan&theme=light&hide_langs_below=1" />
-</a>
-<a href="https://github.com/iampawan">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=iampawan&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
-</a>
-<a href="https://github.com/iampawan/FlutterExampleApps">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=FlutterExampleApps&theme=light" />
-
-</a>
-<a href="https://github.com/iampawan/VelocityX">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=VelocityX&theme=light" />
+<a href="https://github.com/ncukaran18csu103">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ncukaran18csu103&theme=light&hide_langs_below=1" />
 </a>
 
 <div align="center">
