@@ -18,5 +18,8 @@
 <a href="https://github.com/ncukaran18csu103">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ncukaran18csu103&theme=light&hide_langs_below=1" />
 </a>
+<a href="https://github.com/ncukaran18csu103">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=ncukaran18csu103&show_icons=true&theme=light&line_height=27" alt="Karan's github stats"/>
+</a>
 
 <div align="center">
