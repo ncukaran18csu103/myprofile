@@ -1,6 +1,6 @@
 ### Hi Karan this side 👋 <div  align="right">    
  </div>
-<center><img align="right" alt="GIF" width="420" height="360" src="" /></center>
+<center><img align="right" alt="GIF" width="420" height="360" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdepositphotos.com%2Fvector-images%2Fprogrammer.html&psig=AOvVaw244Q6IUf0dCCJH5a3kZdXZ&ust=1613367182158000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPix2qDT6O4CFQAAAAAdAAAAABAD" /></center>
 
 - 🔭 I’m currently focusing on building skills 👨⌛️
 - 🌱 I’m currently learning different technologies 👨🏻‍💻
@@ -16,6 +16,3 @@
 ### ✨ Languages & Tools I worked On
 <code><img height="25" src="https://img.icons8.com/color/48/000000/python.png"/></code>&nbsp;&nbsp;
 <code><img height="25" src="https://www.brandeps.com/logo-download/O/OpenCV-logo-vector-01.svg"></code>&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=ncukaran18csu103 &&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=A52A2A">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ncukaran18csu103 &layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
