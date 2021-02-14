@@ -1,4 +1,5 @@
-### Hi Karn this side 👋 <div  align="right"> <img src="https://komarev.com/ghpvc/?username=Abhinav-26&color=green" alt="Abhinav-26"/> </div>
+### Hi Karan this side 👋 <div  align="right">    <img src="https://raw.githubusercontent.com/kumar-sanjeet1/assets/master/images/icons/linkedin.svg"  height="25px">
+ </div>
 <center><img align="right" alt="GIF" width="420" height="360" src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif" /></center>
 
 - 🔭 I’m currently focusing on building skills 👨⌛️
