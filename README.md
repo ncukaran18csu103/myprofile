@@ -1,5 +1,7 @@
 ### Hi Karan this side 👋 <div  align="right" >    
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ncukaran18csu103&label=Profile%20views&color=0e75b6&style=flat" /> </p>
+
+
 - 🔭 I’m currently focusing on building skills 👨⌛️
 - 🌱 I’m currently learning different technologies 👨🏻‍💻
 - 👯 I’m open to collaborate on open-source Projects in <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ML/DL,Data Anlayts,ComputerVision, flask🤗🥰
