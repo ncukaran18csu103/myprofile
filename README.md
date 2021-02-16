@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavvikasarora&label=Profile%20views&color=0e75b6&style=flat" alt="pranavvikasarora" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ncukaran18csu103&label=Profile%20views&color=0e75b6&style=flat" alt="karan Choudhary" /> </p>
 ### Hi Karan this side 👋 <div  align="right" >    
 - 🔭 I’m currently focusing on building skills 👨⌛️
 - 🌱 I’m currently learning different technologies 👨🏻‍💻
